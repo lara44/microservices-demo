@@ -6,7 +6,7 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "localhost",
-            "Port": 5137
+            "Port": 5001
           }
         ],
         "UpstreamPathTemplate": "/products",
@@ -14,7 +14,7 @@
       }
     ],
     "GlobalConfiguration": {
-      "BaseUrl": "https://localhost:5000"
+      "BaseUrl": "http://localhost:5000"
     }
   }
   
